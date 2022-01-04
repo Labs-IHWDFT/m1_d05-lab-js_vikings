@@ -4,6 +4,8 @@
 
 ## Introduction
 
+[![Automated Testing](https://github.com/Labs-IHWDFT/m1_d05-lab-js_vikings/actions/workflows/test.yml/badge.svg?branch=solution)](https://github.com/Labs-IHWDFT/m1_d05-lab-js_vikings/actions/workflows/test.yml)
+
 We have learned Object-oriented programming and how `class` and inheritance work in JavaScript. Now lets work with our Viking friends, applying all of the concepts we have just learned.
 
 <br>
